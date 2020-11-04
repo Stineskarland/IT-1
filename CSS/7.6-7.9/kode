@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+<body>
+  <link rel="stylesheet" href="stilark/stilark.css">
+  <h3> Oppgave 7.8 og 7.9</h3>
+  <p>
+    Lorem ipsum dolor sit amet,<a href="#"> consectetur</a> adipiscing elit. Ut cursus in orci et viverra. Nam eu dictum dolor.<br>
+    Quisque congue ante dictum magna tempor, fringilla pretium dolor condimentum. <br>
+    Vestibulum lacinia <a href="#"> libero ac quam laoreet</a>, eget sollicitudin ipsum vehicula.<br>
+    Nulla tincidunt erat dui, vitae commodo arcu mattis sit amet. Nullam sagittis nibh eu <a href="https://lipsum.com/feed/html">tortor egestas </a> scelerisque.<br>
+    Cras ullamcorper risus id vestibulum condimentum. Donec sollicitudin enim vitae mauris facilisis elementum.<br>
+    Nam molestie mollis enim, a vestibulum sapien sodales nec. <a href="https://github.com/login?return_to=%2Fenterprise">Vestibulum </a> non eros at mi vulputate luctus.<br>
+    Nulla sagittis tempor odio, in finibus sapien blandit vel. Praesent ornare euismod convallis.<br>
+    Quisque molestie velit in leo lobortis, ut ultrices mauris tempor. Curabitur interdum, est ut posuere sollicitudin,<br>
+    leo leo consectetur nulla, sed vestibulum velit mi eu nulla. Curabitur ultrices ligula risus, nec lacinia est dignissim vel.
+  </p>
+  <h3> Høyeste fjell i Danmark, oppgave 7.6 og 7.7</h3>
+  <table>
+<tr>
+<th> Fjell </th>
+<th> Høyde over havet</th>
+<th> Kommune </th>
+<th> Region</th>
+</tr>
+<tr>
+<td>Møllehøj</td>
+<td> 170,86</td>
+<td> Skanderborg</td>
+<td>Midtjylland </td>
+</tr>
+<tr>
+<td>Yding skovhøj </td>
+<td>170,77 </td>
+<td>Horsens </td>
+<td> Midtjylland</td>
+</tr>
+</body>
+</html>
