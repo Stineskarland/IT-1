@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<meta charset="utf-8">
+</head>
+<body>
+table{
+border-collapse:collapse;/* fjerner mellomrom mellom rader/kolonner*/
+border-style:solid;
+}
+th{
+background-color:#7cbe05; /* grønn*/
+border:1px solid #000000; /* svart*/
+padding:5px; /*avstand mellom bokskant og innhold*/
+}
+td{
+background-color:#e7f1cc; /*lys grønn*/
+border:1px solid #000000 /*svart*/
+padding:5px; /*avstand mellom bokskant og innhold*/
+}
+a{
+  text-decoration:none;
+  color:#dd0000;/*rød*/
+  font-weigt:bold; /*fet skrift*/
+}
+a:hover{
+ color:#880000; /*mørk rød*/ 
+}
+</body>
+</html>
